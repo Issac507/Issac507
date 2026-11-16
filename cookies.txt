@@ -1,0 +1,3 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+ld-wp73.template-help.com	FALSE	/	FALSE	0	PHPSESSID	fd02ujhtl8fv25iflckgsn6tc2

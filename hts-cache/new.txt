@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:36:46	26/26	---M--	200	added ('OK')	text/plain	date:Mon,%2009%20Nov%202026%2021:36:08%20GMT	https://ld-wp73.template-help.com/robots.txt		(from )
+16:36:48	297370/297370	---MCZ	200	added ('OK')	text/html	date:Mon,%2009%20Nov%202026%2021:36:09%20GMT	https://ld-wp73.template-help.com/wordpress/prod_17878/v3/	C:/Users/CS130/Desktop/IDDD/ld-wp73.template-help.com/wordpress/prod_17878/v3/index.html	(from )
+16:36:49	1555/1555	---M--	400	error ('Bad%20Request')	text/html	date:Mon,%2009%20Nov%202026%2021:36:11%20GMT	http://www.googletagmanager.com/gtm.js?id=	C:/Users/CS130/Desktop/IDDD/www.googletagmanager.com/gtm5445.html	(from https://ld-wp73.template-help.com/wordpress/prod_17878/v3/)
